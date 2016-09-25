@@ -3,8 +3,6 @@
 ## # djangoBlog
 
 ## Requirements
-""
-
 adium-theme-ubuntu==0.3.4
 
 Django==1.9
@@ -25,4 +23,4 @@ virtualenv==15.0.3
 virtualenv-clone==0.2.6
 
 virtualenvwrapper==4.7.2
-""
+
